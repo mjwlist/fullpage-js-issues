@@ -1,5 +1,3 @@
-# fp-bugfix
-
 ## Project setup
 ```
 npm install
